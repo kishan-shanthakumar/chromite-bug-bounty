@@ -8,3 +8,9 @@ Unratified Extensions:
 Immediated have weird encodings for hardware ease and support
 
 Number of instructions we can add = 2^32 - 40
+
+BlueSpec Version: release-2021.07-red
+
+RISC V GCC Version: 
+
+Verilator Version: 4.106
